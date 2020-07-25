@@ -345,5 +345,54 @@ Netflix 的福利，是给员工 all cash，很多很多 cash
 
 ### 6. 日本 
 
+
+
+## 七、北美各个大学的转学/本科录取信息
+
+### 1. University of Michigan, Ann Abor
+
+#### 学费
+
+
+Tuition & Fees
+$51,200 （大三大四 $54,794）
+
+Total Budget
+$66,698 （大三大四 $70,292）
+
+#### DDL
+
+#### 材料
+
+* Completed Common Application
+* Final official high school/secondary school record, including 9th-12th grades and graduation date
+* List of all current and future courses 
+* Official transcripts from all post-secondary institutions
+* Required test scores: ACT or SAT if taken as a high school student; and MET, TOEFL, IELTS if English is not your first language
+* SAT 可免
+
+* 详细内容查看网址 https://admissions.umich.edu/apply/transfer-students/requirements-deadlines-0
+
+#### 可转学分
+
+在这上边我甚至能查到我的学校
+https://www.ugadmiss.umich.edu/TCE/Public/CT_TCESearch.aspx
+
+
+
+### 2. University of Waterloo 
+
+#### 学费
+
+#### 材料
+* 高考成绩 一本线 (CHESICC提交)
+* 高中三年证明 (由学校提交)
+* 毕业证书
+
+
+
+
 ## 本文未完待续，作者在2020年六月会继续更新完善。也欢迎志同道合的同学和前辈们contribute！
 ## Make your life beautiful again！
+
+
