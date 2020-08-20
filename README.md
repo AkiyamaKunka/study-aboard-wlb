@@ -389,8 +389,37 @@ https://www.ugadmiss.umich.edu/TCE/Public/CT_TCESearch.aspx
 * 高中三年证明 (由学校提交)
 * 毕业证书
 
+### 3. McGill University
+
+### 学费
+
+* 文理学院下CS项目一年20wRMB
+* 工程学院和科学院下CS项目一年35wRMB
+
+#### 材料
+* 高考成绩 一本线 (CHESICC提交)
+* 高中三年证明 (由学校提交)
+* 毕业证书
+
+录取尚未开始，详情可以查询网址
+https://horizon.mcgill.ca/pban1/hzskalog.P_DISPLANGUECHOICE
 
 
+### 4.Nanyang Technological University
+
+### 学费 
+* CS项目一年35w左右
+
+录取尚未开始，详情可以查询网址
+https://admissions.ntu.edu.sg/UndergraduateAdmissions/Pages/ApplytoNTU.aspx
+
+### 5.National University of Singapore
+
+### 学费 
+* CS项目一年35w左右
+
+录取尚未开始，详情可以查询网址
+http://www.nus.edu.sg/oam/
 
 ## 本文未完待续，作者在2020年六月会继续更新完善。也欢迎志同道合的同学和前辈们contribute！
 ## Make your life beautiful again！
